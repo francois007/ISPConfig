@@ -1,6 +1,7 @@
 # ISPConfig
-ISPConfig 3-1-7p1 for Debian 8/9, Nginx, phpMyadmin and Roundcube (force ssl)
-
+ ISPConfig 3-1-7p1 for Debian 8/9 & Ubuntu 14.04/16.04, Nginx, phpMyadmin and Roundcube (force ssl)
+ 
+ 
 # ISPConfig - Hosting Control Panel
 
 - Manage multiple servers from one control panel
