@@ -1,5 +1,5 @@
 # ISPConfig
- ISPConfig 3-1-10 for Debian 8/9 & Ubuntu 14.04/16.04, Nginx, phpMyadmin and Roundcube (force ssl)
+ ISPConfig 3-1-11 for Debian 8/9 & Ubuntu 14.04/16.04, Nginx, phpMyadmin and Roundcube (force ssl)
  
  
 # ISPConfig - Hosting Control Panel
