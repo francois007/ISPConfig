@@ -5,7 +5,7 @@
 # ISPConfig - Hosting Control Panel
 
 - Manage multiple servers from one control panel
-- Web server management (Apache2 and nginx)
+- Web server management (Apache2 and Nginx)
 - Mail server management (with virtual mail users)
 - DNS server management (BIND and MyDNS)
 - Virtualization (OpenVZ)
